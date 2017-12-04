@@ -1,3 +1,0 @@
-[submodule "statsd-example"]
-	path = statsd-example
-	url = git@github.com:Hyperpilotio/statsd-example.git
